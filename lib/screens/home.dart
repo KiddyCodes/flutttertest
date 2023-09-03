@@ -19,7 +19,8 @@ class _HomeState extends State<Home> {
           'HI',
           style: TextStyle(fontSize: 40),
         ),
-        Card()
+        Card(),
+        Text('hh')
       ],
     ));
   }
